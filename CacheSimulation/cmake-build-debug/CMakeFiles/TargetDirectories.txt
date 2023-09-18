@@ -1,0 +1,3 @@
+/Users/emiliedoan/CLionProjects/CacheSimulation/cmake-build-debug/CMakeFiles/CacheSimulation.dir
+/Users/emiliedoan/CLionProjects/CacheSimulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emiliedoan/CLionProjects/CacheSimulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
